@@ -1,6 +1,6 @@
 # Responsive-Register-Login
 **Files :**
-- You have at your disposal 2 responsive html files: : 
+- You have at your disposal 2 responsive html files : 
 
     - ```login.html ``` A clean and responsive login page for your projects. <br>
     
